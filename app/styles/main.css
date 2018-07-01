@@ -1,0 +1,11 @@
+.center {
+  width: 500px;
+  margin: 0 auto;
+}
+.input-tasks {
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0;
+  background: darkslategrey;
+  padding: 1rem;
+}

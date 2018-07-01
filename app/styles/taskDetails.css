@@ -1,0 +1,21 @@
+.task-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin:20px 0;
+  padding: 10px;
+}
+.new-task {
+  background: pink;
+}
+.progress-task {
+  background: lightgrey;
+}
+.completed-task {
+  background: lightgreen;
+}
+.flex {
+  display: flex;
+}
+.task-status-bar button {
+  margin-right: 15px;
+}
